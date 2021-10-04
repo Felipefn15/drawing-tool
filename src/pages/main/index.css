@@ -1,0 +1,32 @@
+.container {
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.howUseWapper {
+    width: 80%;
+    text-align: center;
+}
+
+.howUseTitle {
+    font-size: 25px;
+}
+
+.howUseText {
+    font-size: 15px;
+}
+
+.importWapper {
+    margin-left: 5%;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+}
